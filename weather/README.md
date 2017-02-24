@@ -1,6 +1,5 @@
 # cli-weather
 ============
-[![GitHub CLI_V1](https://github.com/lfeniri/rdd-cdd-tdd/tree/master/weather)]
 
 This is a node.js application powered by yahoo yql which give you the condition and temperature for city that you choose.
 
